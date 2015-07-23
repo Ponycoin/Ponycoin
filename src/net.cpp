@@ -1192,13 +1192,12 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"ponycoin.net", "seed.ponycoin.net"},
-    {"ponycoin.net", "seed2.ponycoin.net"},
+    {"ponycoin main seed", "pnc.brony.co"},
     {NULL, NULL}
 };
 
 static const char *strTestNetDNSSeed[][2] = {
-    {"ponycoin.net", "testnet-seed.ponycoin.net"},
+    {"ponycoin test seed", "pnc.brony.co"},
     {NULL, NULL}
 };
 
@@ -1247,9 +1246,7 @@ void ThreadDNSAddressSeed()
 
 unsigned int pnSeed[] =
 {
-    0x904cee02, 0xa2f3c76a, 0xb23ebef6, 0x436df876, 0xb65c0080, 0xc0f1d78b, 0x43d70bc3, 0xa2d16d51, 0x2f115487, 
-    0xb6fe824b, 0xce7474ba, 0xadffdad5, 0xb65c66ec, 0xd447ffb9, 0x6baaf895, 0x5cde1842, 0xa2f339f6, 0xa2f38f99, 
-    0x86f990a9, 0x6baa2b67, 0xc6c767e5, 0x6883e682, 0x4e2e1667, 0xe3590ccf
+    0x4cee372d, 0xa465494b
 };
 
 void DumpAddresses()
