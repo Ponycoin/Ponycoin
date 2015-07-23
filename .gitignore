@@ -1,7 +1,7 @@
 src/*.exe
-src/cannabiscoin
-src/cannabiscoind
-src/test_cannabiscoin
+src/ponycoin
+src/ponycoind
+src/test_ponycoin
 .*.swp
 *.*~*
 *.bak
@@ -9,17 +9,17 @@ src/test_cannabiscoin
 *.orig
 *.o
 *.patch
-.cannabiscoin
+.PonyCoin
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-cannabiscoin-qt
-cannabiscoin-Qt.app
+ponycoin-qt
+ponycoin-Qt.app
 
 # Unit-tests
 Makefile.test
-cannabiscoin-qt_test
+ponycoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
