@@ -1243,7 +1243,10 @@ void ThreadDNSAddressSeed()
 
 
 
-
+// This is where you put hardcoded seeds, which is in hex format converted from 0.0.0.0:Port
+// To convert from the original to hex, use:
+// curl -s http://brony.co/pnc-seeds.txt | head -1000 | python makeseeds.py
+// The python script is located in contrib/seeds/
 unsigned int pnSeed[] =
 {
     0x4cee372d, 0xa465494b

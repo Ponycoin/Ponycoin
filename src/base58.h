@@ -272,7 +272,8 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 22, // PonyCoin addresses start with P
+        PUBKEY_ADDRESS = 55,
+        // PonyCoin addresses always start with P :)
         SCRIPT_ADDRESS = 5,
         PUBKEY_ADDRESS_TEST = 111,
         SCRIPT_ADDRESS_TEST = 196,

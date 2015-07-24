@@ -11,7 +11,8 @@
 const std::string CLIENT_NAME("PonyClient");
 
 // Client version number
-#define CLIENT_VERSION_SUFFIX   "-beta"
+#define CLIENT_VERSION_SUFFIX   ""
+// "-beta" for beta
 
 
 // The following part of the code determines the CLIENT_BUILD variable.
