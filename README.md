@@ -1,6 +1,6 @@
 ![Ponycoin Logo](res/ponycoin-img.png)
 
-# Ponycoin `PONY`
+# Ponycoin `(PONY)`
 
 Ever since the original Ponycoin (by a1batross) has been [discontinued](https://bitcointalk.org/index.php?topic=455133.0), we have been working on a revival of the coin, to live the original's legacy and a bit more.
 
