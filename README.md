@@ -26,25 +26,20 @@ That said, Ponycoin is created with a widescale community of [bronies](http://wh
 Current version: 0.8.6.3-g14426ce
 
 - Windows (MinGW) (*Not quite built yet*)
-
 - Mac OS X (*Not quite built yet*)
 
 ### Our Goals:
 
 - To bring together a cryptocurrency community.
-
 - Learning experience for creating a cryptocurrency.
-
 - Ultimately, to have fun doing all of this.
 
 ### Pools using Ponycoin:
 
 - [Ponycoin Official](http://pnc.brony.co/) (*Temporary*): `stratum+tcp://pnc.brony.co:3333`
-
 - Your pool could be here :)
 
 ### Ports used by Ponycoin:
 
 **RPC**: 6932
-
 **P2P**: 6933
