@@ -1,6 +1,6 @@
 ![Ponycoin Logo](res/ponycoin-img.png)
 
-# Ponycoin (Revived)
+# Ponycoin `PONY`
 
 Ever since the original Ponycoin (by a1batross) has been [discontinued](https://bitcointalk.org/index.php?topic=455133.0), we have been working on a revival of the coin, to live the original's legacy and a bit more.
 
@@ -15,15 +15,10 @@ That said, Ponycoin is created with a widescale community of [bronies](http://wh
 ### Features:
 
 - X11 Proof-of-work system: Mine fairly and efficiently across CPUs and GPUs, without the immediate worry of ASIC miners.
-
 - 201,000,000 coins ready for you to mine.
-
 - A new block is generated in ten seconds (flat).
-
 - Initial Reward: 50 PONY, which will cut in half every 10,050,000 blocks.
-
 - Wallet addresses always use `P` as a starting letter.
-
 - No premining has been done, but the coin is well tested.
 
 ### Ponycoin Builds:
