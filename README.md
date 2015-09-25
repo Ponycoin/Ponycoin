@@ -1,6 +1,6 @@
 ![Ponycoin Logo](res/ponycoin-img.png)
 
-# Ponycoin `PONY`
+# Ponycoin `(PONY)`
 
 Ever since the original Ponycoin (by a1batross) has been [discontinued](https://bitcointalk.org/index.php?topic=455133.0), we have been working on a revival of the coin, to live the original's legacy and a bit more.
 
@@ -26,25 +26,20 @@ That said, Ponycoin is created with a widescale community of [bronies](http://wh
 Current version: 0.8.6.3-g14426ce
 
 - Windows (MinGW) (*Not quite built yet*)
-
 - Mac OS X (*Not quite built yet*)
 
 ### Our Goals:
 
 - To bring together a cryptocurrency community.
-
 - Learning experience for creating a cryptocurrency.
-
 - Ultimately, to have fun doing all of this.
 
 ### Pools using Ponycoin:
 
 - [Ponycoin Official](http://pnc.brony.co/) (*Temporary*): `stratum+tcp://pnc.brony.co:3333`
-
 - Your pool could be here :)
 
 ### Ports used by Ponycoin:
 
 **RPC**: 6932
-
 **P2P**: 6933
