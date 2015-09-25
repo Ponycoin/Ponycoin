@@ -1192,12 +1192,12 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"ponycoin main seed", "pnc.brony.co"},
+    {"ponycoin main seed", "seed.ponyco.in"},
     {NULL, NULL}
 };
 
 static const char *strTestNetDNSSeed[][2] = {
-    {"ponycoin test seed", "pnc.brony.co"},
+    {"ponycoin test seed", "seed.ponyco.in"},
     {NULL, NULL}
 };
 
@@ -1243,13 +1243,13 @@ void ThreadDNSAddressSeed()
 
 
 
-// This is where you put hardcoded seeds, which is in hex format converted from 0.0.0.0:Port
+// This is where you put hardcoded seeds, which is in hex format converted from 0.0.0.0:PORT
 // To convert from the original to hex, use:
 // curl -s http://brony.co/pnc-seeds.txt | head -1000 | python makeseeds.py
 // The python script is located in contrib/seeds/
 unsigned int pnSeed[] =
 {
-    0x4cee372d, 0xa465494b
+    0x1cfc8e3f, 0xe36b2e44
 };
 
 void DumpAddresses()
